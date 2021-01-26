@@ -1,6 +1,8 @@
 Changelog
 ==========
 
+* forked from Simple File Manager(alvyxc)
+
 Version 6.8.1 *(2020-10-29)*
 ----------------------------
 
